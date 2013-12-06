@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.baidu.com"
+      }
+   },
+   "description": "Link to baidu search engine",
+   "icons": {
+      "128": "icons/baidu-128.png",
+      "16": "icons/baidu-16.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "5.0.316.0",
+   "name": "Baidu",
+   "version": "1.0"
+}
